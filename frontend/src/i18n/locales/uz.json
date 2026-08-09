@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "services": "Xizmatlar",
+    "portfolio": "Portfolio",
+    "tech": "Texnologiyalar",
+    "contact": "Bog'lanish"
+  },
+  "hero": {
+    "title": "Telegram Bot, Web va AI Developer",
+    "subtitle": "Biznes, shaxsiy loyiha va startaplar uchun zamonaviy Telegram botlar, saytlar va AI yechimlar yarataman.",
+    "cta_start": "Bog'lanish",
+    "cta_portfolio": "Portfolio ko'rish",
+    "experience": "Tajriba",
+    "years": "yil",
+    "completed_projects": "Tugallangan loyihalar"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "subtitle": "Zamonaviy raqamli yechimlar yaratuvchi tajribali dasturchi",
+    "stat_projects": "20+ Loyihalar",
+    "stat_bots": "Telegram Botlar",
+    "stat_sites": "Veb-saytlar",
+    "stat_ai": "AI Yechimlar"
+  },
+  "services": {
+    "title": "Xizmatlar",
+    "subtitle": "Sizning biznesingiz rivoji uchun taklif etiladigan professional xizmatlar",
+    "btn_order": "Bog'lanish",
+    "btn_more": "Batafsil"
+  },
+  "portfolio": {
+    "title": "Portfolio va Loyihalar",
+    "subtitle": "Mening so'nggi muvaffaqiyatli loyihalarim bilan tanishing",
+    "all": "Barchasi",
+    "bots": "Telegram Botlar",
+    "web": "Veb-saytlar",
+    "miniapps": "Mini Apps",
+    "ai_video": "AI Videolar",
+    "ai_image": "AI Rasmlar",
+    "automation": "Avtomatlashtirish",
+    "btn_demo": "Live Demo",
+    "btn_bot": "Botni ochish",
+    "btn_github": "GitHub"
+  },
+  "tech": {
+    "title": "Texnologiyalar",
+    "subtitle": "Loyihalarda foydalaniladigan zamonaviy instrumentlar va freymvorklar"
+  },
+  "order": {
+    "title": "Loyihangiz bo'yicha bog'lanamiz",
+    "subtitle": "G'oyangizni qoldiring va qulay usulda smeta oling",
+    "name_label": "Ismingiz *",
+    "name_placeholder": "Ali Valiyev",
+    "service_label": "Xizmat turini tanlang",
+    "service_select": "Xizmatni tanlang...",
+    "desc_label": "Loyiha tavsifi *",
+    "desc_placeholder": "Nima kerakligini qisqacha yozing...",
+    "contact_method_title": "Siz bilan qaysi usulda bog'lanay?",
+    "contact_val_wa": "WhatsApp raqamingizni kiriting",
+    "contact_val_tg": "Telegram username'ingizni kiriting",
+    "contact_val_email": "Email manzilingizni kiriting",
+    "submit_btn": "So'rovni Yuborish",
+    "submitting": "Yuborilmoqda...",
+    "direct_title": "Yoki o'zingiz bog'lanishingiz mumkin",
+    "direct_btn": "✈️ O'zim bog'lanaman",
+    "error_contact": "Iltimos, aloqa ma'lumotlarini kiriting!",
+    "error_general": "Xatolik yuz berdi. Qaytadan urinib ko'ring."
+  },
+  "success": {
+    "title": "✅ So'rovingiz yuborildi.",
+    "desc": "Tez orada siz bilan bog'lanaman.",
+    "btn_home": "Bosh sahifaga qaytish"
+  },
+  "contact": {
+    "title": "Aloqa va Bog'lanish",
+    "subtitle": "Savollaringiz bormi? Istalgan tarmoq orqali admin bilan bog'laning",
+    "admin_btn": "Admin bilan bog'lanish",
+    "msg_tg": "Telegramda yozish",
+    "msg_wa": "WhatsApp orqali yozish",
+    "msg_email": "Email yozish"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan."
+  }
+}

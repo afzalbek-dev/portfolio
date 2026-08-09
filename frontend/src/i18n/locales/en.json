@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "tech": "Technologies",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Telegram Bot, Web & AI Developer",
+    "subtitle": "I build modern Telegram bots, websites and AI-powered solutions for businesses, startups and personal projects.",
+    "cta_start": "Contact Me",
+    "cta_portfolio": "View Portfolio",
+    "experience": "Experience",
+    "years": "years",
+    "completed_projects": "Completed Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Experienced engineer crafting high-impact digital solutions",
+    "stat_projects": "20+ Projects",
+    "stat_bots": "Telegram Bots",
+    "stat_sites": "Websites",
+    "stat_ai": "AI Solutions"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Professional engineering services tailored to grow your business",
+    "btn_order": "Contact Me",
+    "btn_more": "Learn More"
+  },
+  "portfolio": {
+    "title": "Portfolio & Projects",
+    "subtitle": "Explore my recent engineering projects and showcase work",
+    "all": "All",
+    "bots": "Telegram Bots",
+    "web": "Websites",
+    "miniapps": "Mini Apps",
+    "ai_video": "AI Videos",
+    "ai_image": "AI Images",
+    "automation": "Automation",
+    "btn_demo": "Live Demo",
+    "btn_bot": "Open Bot",
+    "btn_github": "GitHub"
+  },
+  "tech": {
+    "title": "Technologies",
+    "subtitle": "Modern tech stack and tools powering my solutions"
+  },
+  "order": {
+    "title": "Let's Connect About Your Project",
+    "subtitle": "Describe your vision and choose your preferred contact channel",
+    "name_label": "Your Name *",
+    "name_placeholder": "John Doe",
+    "service_label": "Select Service",
+    "service_select": "Choose a service...",
+    "desc_label": "Project Description *",
+    "desc_placeholder": "Describe briefly what you need...",
+    "contact_method_title": "How should I contact you?",
+    "contact_val_wa": "Enter your WhatsApp number",
+    "contact_val_tg": "Enter your Telegram username",
+    "contact_val_email": "Enter your email address",
+    "submit_btn": "Submit Request",
+    "submitting": "Submitting...",
+    "direct_title": "Or contact me directly",
+    "direct_btn": "✈️ Contact Me",
+    "error_contact": "Please provide your contact information!",
+    "error_general": "An error occurred. Please try again."
+  },
+  "success": {
+    "title": "✅ Your request has been sent.",
+    "desc": "I'll contact you soon.",
+    "btn_home": "Back to Home"
+  },
+  "contact": {
+    "title": "Contact & Connect",
+    "subtitle": "Have questions? Reach out to the admin directly",
+    "admin_btn": "Contact Admin",
+    "msg_tg": "Message on Telegram",
+    "msg_wa": "Message on WhatsApp",
+    "msg_email": "Send Email"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
