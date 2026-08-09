@@ -28,10 +28,10 @@ jobs:
           rm -f .env
           python - <<'PY'
           from pathlib import Path
+          import re
           p = Path('bot/config.py')
           if p.exists():
               s = p.read_text(encoding='utf-8')
-              import re
               s = re.sub(r'BOT_TOKEN\s*=\s*os\.getenv\("TELEGRAM_BOT_TOKEN",\s*"[^"]*"\)',
                          'BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")', s)
               s = re.sub(r'raw_admin_id\s*=\s*os\.getenv\("TELEGRAM_ADMIN_ID",\s*"[^"]*"\)',
